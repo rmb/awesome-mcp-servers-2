@@ -210,6 +210,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🔍 <a name="search-web"></a>Search & Web
 
+- <img src="https://www.google.com/s2/favicons?domain=omniforce.run&sz=64" height="14"/> [OmniForce](https://github.com/rmb/omniforce-mcp) - GEO & AI-search visibility: audit any site's AI-readiness and track prompts, competitors, and citations.
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - <img src="https://cdn.simpleicons.org/puppeteer/00D8A2" height="14"/> [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
